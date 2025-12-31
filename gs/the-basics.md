@@ -21,10 +21,10 @@ Follow the step-by-step guide below to learn how to allow Http requests to be se
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 2.  Go to the Security tab.
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The Basic Info tab in Game Settings.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>The Basic Info tab in Game Settings.</p></figcaption></figure>
 3.  Enable "Allow HTTP Requests".
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="314"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3).png" alt="" width="314"><figcaption></figcaption></figure>
 4. Click Save at the bottom right of the Game Settings window, and you're done!
 
 ## 2. Ensure your product scripts have the necessary capabilities

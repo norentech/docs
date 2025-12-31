@@ -10,7 +10,7 @@ Want to make ZURA display your own GUI? Follow this step-by-step guide. If you w
 
 1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's face should be `Front`.
 2. Locate the Screen part in the display. It may be somewhere else in the display depending on your display's model.\
-   ![](<../../.gitbook/assets/image (13).png>)
+   ![](<../../.gitbook/assets/image (14).png>)
 3. Parent your `SurfaceGui` to the Screen part.
 4. The display should now display the GUI. Power it on and try it out!
 
@@ -21,7 +21,7 @@ The ZURA HDMI Transmitter makes it easy for you to display the same GUI in every
 1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's Face should be `Front`.
 2. Locate your transmitter.
 3. Parent the GUI to the transmitter. \
-   ![](<../../.gitbook/assets/image (14).png>)<br>
+   ![](<../../.gitbook/assets/image (15).png>)<br>
 4. All displays in the zone should now be displaying your GUI.
 
 {% hint style="warning" %}
@@ -38,7 +38,7 @@ In the display's screen: INTEGRATED-0000
 The last 4 zeros are randomized numbers.
 
 1. To override the default names, start by creating a new attribute called "ZR\_DisplayName" in your GUI. Make sure that Type is set to `string`.\
-   ![](<../../.gitbook/assets/image (15).png>)
+   ![](<../../.gitbook/assets/image (16).png>)
 2. Set the attribute to any name you want.
 
 ## Standalone displays
@@ -54,9 +54,9 @@ To use the same Config for a group of displays:
 To configure a standalone ZURA Display's behaviour:
 
 1. Duplicate the ZoneConfig module from a ZURA Displays zone folder.\
-   ![](<../../.gitbook/assets/image (3).png>)
-2. Parent the Config to a ZURA Display's Controller script and name it "Config".\
    ![](<../../.gitbook/assets/image (4).png>)
+2. Parent the Config to a ZURA Display's Controller script and name it "Config".\
+   ![](<../../.gitbook/assets/image (5).png>)
 
 Below is the default configuration for a display which does not have a Config in it's Controller script and is not parented to a zone:
 
