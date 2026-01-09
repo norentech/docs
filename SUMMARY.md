@@ -43,3 +43,7 @@
   * [Custom Tools](products/ranking-sticks/custom-tools.md)
   * [API Documentation](products/ranking-sticks/api-documentation.md)
 * [Flux Air](products/fluxair.md)
+
+## REST APIs <a href="#rest" id="rest"></a>
+
+* [Juno API](rest/juno-api.md)
