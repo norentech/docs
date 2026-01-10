@@ -55,7 +55,7 @@ Check whether a specific Roblox user ID is blacklisted.
 `/checkBlacklist`
 
 **Full URL**\
-&#xNAN;**`https://juno.vercel.app/api/checkBlacklist`**
+&#xNAN;**`https://juno.norentech.vercel.app/api/checkBlacklist`**
 
 ***
 
@@ -159,7 +159,7 @@ Returned when an unexpected server error occurs.
 ### cURL
 
 ```html
-curl -X POST https://juno.vercel.app/api/checkBlacklist \
+curl -X POST https://juno.norentech.vercel.app/api/checkBlacklist \
   -H "Content-Type: application/json" \
   -d '{"UserId":"12345"}'
 ```
@@ -169,7 +169,7 @@ curl -X POST https://juno.vercel.app/api/checkBlacklist \
 ### JavaScript (Unauthenticated)
 
 ```javascript
-fetch('https://juno.vercel.app/api/checkBlacklist', {
+fetch('https://juno.norentech.vercel.app/api/checkBlacklist', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ UserId: '12345' })
@@ -183,7 +183,7 @@ fetch('https://juno.vercel.app/api/checkBlacklist', {
 ### JavaScript (Authenticated)
 
 ```javascript
-fetch('https://juno.vercel.app/api/checkBlacklist', {
+fetch('https://juno.norentech.vercel.app/api/checkBlacklist', {
     method: 'POST',
     headers: {
         'Content-Type': 'application/json',
