@@ -6,20 +6,7 @@ coverY: 0
 
 # Welcome
 
-{% hint style="info" %}
-Atelier Group has rebranded to Noren. See our Discord for more information.
-{% endhint %}
+Welcome to Noren's documentation. The one stop for all the things about our products.
 
-Welcome to Noren's documentation, the library of all the information you need for Noren's products.
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Set up products</strong></td><td>Learn how to set up your product, the right way.</td></tr><tr><td><strong>Stay compliant</strong></td><td>Review our Terms of Use to ensure yourself peace of mind.</td></tr></tbody></table>
 
-## Most visited this year
-
-{% hint style="info" %}
-Last updated on 9/11/2024 6:35AM EST.
-{% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><ol><li>flo Setup Guide</li></ol></td><td><a href=".gitbook/assets/noren_documentationNumber_1.png">noren_documentationNumber_1.png</a></td><td><a href="products/flovac/setup.md">setup.md</a></td></tr><tr><td><ol start="2"><li>ParkingPal Setup Guide</li></ol></td><td><a href=".gitbook/assets/noren_documentationNumber_2.png">noren_documentationNumber_2.png</a></td><td><a href="products/parkingpal/setup.md">setup.md</a></td></tr><tr><td><ol start="3"><li>ZURA Setup Guide</li></ol></td><td><a href=".gitbook/assets/noren_documentationNumber_3.png">noren_documentationNumber_3.png</a></td><td><a href="products/zuradisplaypack/setup.md">setup.md</a></td></tr></tbody></table>
-
-## All around the world
-
-**150** users from **31** different countries visited our Creator Documentation as of 9/11/2024 6:33AM EST.

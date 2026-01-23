@@ -1,85 +1,86 @@
 ---
 icon: scroll
+cover: ../.gitbook/assets/noren_termsOfUseBanner.png
+coverY: 60.76286221170904
+coverHeight: 284
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Terms of Use
 
-These Terms of Use are here to make things clear and fair for everyone using digital assets ("Product"), like RBXM files, purchased directly from Noren. If you ever feel these Terms don’t work for you, no worries—you can request to revoke your license anytime (just note that **refunds aren’t provided**), and you’ll **no longer be able to use the Product**.
+These Terms of Use govern your use of all digital assets ("Products") purchased from Noren. By using the Product, you agree to these Terms. If you do not agree, do not use the Product. Your license(s) may be revoked at any anytime and **no refunds are provided**.
 
-{% hint style="warning" %}
-**Unofficial Copies:** Products not bought **directly from us** (like unofficial copies) aren’t allowed under these Terms.
-{% endhint %}
+## 1. License
 
-{% hint style="success" %}
-**Creator Store Products are not Covered:** Anything you purchase from Noren's official Roblox community through Roblox’s Creator Store is **not covered by these terms**.
-{% endhint %}
+* You are granted a **non-exclusive, revocable license** to use the Product in personal or commercial Roblox projects.
+* Only Products purchased directly from Noren or approved channels carry a valid license.
+
+## 2. Ownership
+
+* The Product remains the property of Noren.
+* You may not claim ownership or copyright of the Product.
+
+## 3. Prohibited Uses
+
+You may not:
+
+1. Share, resell, or distribute the Product.
+2. Use unofficial or pirated copies.
+3. Decompile, reverse-engineer, or bypass licensing systems.
+4. Remove, hide, or modify brandings and credits.
+5. Use the Product for illegal, misleading, or harmful purposes.
+6. Intentionally damage Noren’s reputation, including false reviews or fake comparisons.
 
 {% hint style="info" %}
-We may update these Terms from time to time **without notice**, so it's a good idea to check in now and then to stay up-to-date.
+In Team Create sessions, you are responsible for your own actions.
 {% endhint %}
 
-These Terms apply to anyone who downloads, uses, or accesses our Products, whether purchased directly or obtained in another way. By using the Product, you agree to these Terms.
+## 4. Branding
 
-## 1. How You Can Use The Product
+* Brandings must remain visible unless the Product is explicitly **unbranded** or you have a “No Branding Pass.”
+* If you do not meet the conditions above, you must obtain Noren's written approval to make branding changes.
 
-We’re happy to offer you a non-exclusive, revocable license to use our Product for your own personal or commercial Roblox projects. To keep things fair, please follow these rules:
+## 5. Enforcement
 
-* Only Products purchased directly from us (or through official approved channels) come with a valid license. If you’re using a copy that wasn’t obtained this way, you don’t have any rights to use it under these Terms.
-* Please don’t resell, give away, or share the Product with others.\*
-* Please don’t try to **break**, **decompile**, or **remove** the systems we’ve added to protect ownership or security.
-* Please don't attempt to **modify** or **reverse-engineer** any scripts which the Product may have.
-* Don’t use the Product for anything **illegal** or **unauthorized**.
-* Avoid creating **misleading** or **unfair content** with the Product (like false reviews or fake comparisons).
-* Please don’t intentionally make the Product look **broken**, **misleading**, or use it in ways meant to damage our **reputation** or **sales** (like fake reviews or unfair comparisons).
+* Violations may result in **warnings, blacklisting, or license revocation**.
+* Noren may take action for any use that harms its reputation, staff, community, or partners, even if not explicitly listed.
+* Choosing to stop using the Product **does not entitle you to a refund**.
 
-\*Team Create sessions may make it **almost impossible** to comply with these terms as you don't know what other developers might do. However, the developer that **violates these terms**, whether they own the product or not, will be **held responsible** for their own actions.
+## 6. Security Systems
 
-{% hint style="success" %}
-**License Transfers:** Please [contact us](/broken/pages/JLT9kGYgCwpUIsgZi5Pb) if you'd like to transfer any of your licenses. The completion duration of your transfer request is subject to support response times.
-{% endhint %}
+The Product may include systems that:
 
-## 2. Ownership & What's Not Allowed
+* Verify your license ownership
+* Detect piracy or tampering
+* Trigger warnings or revoke access
 
-The Product still belongs to Noren. You’re getting permission to use it—not full ownership.
+You may not attempt to **bypass, disable, or modify** these systems.
 
-* **Sharing**, **leaking**, or **reselling** the Product without our OK will lead to a warning, getting blacklisted, or losing access to the Product—depending on **how serious** it is.
-* Please don’t try to **get around** any licensing systems we’ve added.
+## 7. Updates
 
-## 3. Branding & Credit
+* Noren may update these Terms at any time without notice.
+* Continued use of the Product after updates constitutes acceptance.
 
-* Please don’t **remove** or **change** any branding, credits, or tags that say it's made by Noren.
-* If branding is added using **Parts** or **MeshParts**, you can move it if needed—but make sure it stays **visible** and is on the **surface** of the product's model.
-* Want to add your own branding? You can only do that if:\
-  • The Product is **Unbranded** (check the product's documentation page), or\
-  • You have the "No Branding Pass" product.
-* If you’re unsure, reach out and get **written permission** before making branding changes.
+## 8. Creator Store Products
 
-## 4. Keeping Things Safe
+* Products purchased through Roblox’s Creator Store are **not covered by these Terms**.
 
-We use some smart systems inside the Product to help make sure everything’s being used the right way. These may:
+## 9. Contact
 
-* Check if the license is valid.
-* Notify us if there’s suspected piracy or tampering.
-* Trigger actions like warnings or revoking access if something’s wrong.
-
-Please don't try to **disable** or **work around** these systems.
-
-## 5. How We Enforce These Terms
-
-We aim to apply these rules fairly and proportionately, based on how serious the issue is.
-
-If someone doesn’t follow these Terms, we may give a warning, blacklist them, or remove their license to use the Product.
-
-If you ever change your mind and want to stop using it, you can choose to revoke your license(s)—just remember there are **no refunds**.
-
-We may also take action if, in our reasonable judgment, someone uses the Product in a way that harms Noren, its reputation, its staff, or its community, even if that behavior isn’t listed word-for-word in these Terms.
-
-## 6. Updates
-
-We might change these Terms **occasionally**. It’s your responsibility to check in once in a while and stay in the loop. If you continue using the Product **after an update**, that means **you agree** with the changes.
-
-By using the Product, you’re _**agreeing to everything above**_. Thanks for being part of our community!
-
-## Need Help?
-
-If you have any questions or need further clarification, please don't hesitate to [contact us](/broken/pages/JLT9kGYgCwpUIsgZi5Pb).
+For license transfers, please see [License Transfers](https://app.gitbook.com/s/Rj5umFSPEKFhW4JqM6l9/licenses/transfers "mention"). For any questions or concerns, please [Contact Us](https://app.gitbook.com/s/Rj5umFSPEKFhW4JqM6l9/support/contact "mention").

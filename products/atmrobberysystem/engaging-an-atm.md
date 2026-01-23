@@ -2,9 +2,13 @@
 
 By default, you need to **engage** the ATM before you can rob it. There are currently 2 engage methods available on the system, Disabled and Spare Buttons.
 
+***
+
 ## Disabled
 
 When you set the engage method to Disabled, the prompt to rob the ATM will always be visible on your labeled PromptPart. This is not recommended, but may be suitable for crime-focused games.
+
+***
 
 ## Spare Buttons
 

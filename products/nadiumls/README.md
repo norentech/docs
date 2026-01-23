@@ -1,4 +1,5 @@
 ---
+icon: lightbulb
 cover: ../../.gitbook/assets/noren_documentationBanner.png
 coverY: 0
 ---

@@ -1,4 +1,5 @@
 ---
+icon: money-from-bracket
 cover: ../../.gitbook/assets/noren_documentationBanner.png
 coverY: 0
 ---
@@ -13,8 +14,8 @@ This product requires a paid license. It is a violation of the [terms.md](../../
 This product requires compatible ATM models from JSM.
 {% endhint %}
 
-{% content-ref url="setup.md" %}
-[setup.md](setup.md)
+{% content-ref url="setup/" %}
+[setup](setup/)
 {% endcontent-ref %}
 
 {% content-ref url="engaging-an-atm.md" %}
