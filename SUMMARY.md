@@ -32,6 +32,8 @@
 * [Nadium Lighting System](products/nadiumls/README.md)
   * [Setup](products/nadiumls/setup.md)
   * [API Documentation](products/nadiumls/api-documentation.md)
+* [SmartChat](products/smartchat/README.md)
+  * [Setup](products/smartchat/setup.md)
 
 ## REST APIs <a href="#rest" id="rest"></a>
 
