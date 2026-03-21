@@ -10,6 +10,10 @@ coverY: 0
 This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
 {% endhint %}
 
+{% hint style="success" %}
+Have you completed [the basics](../../gs/the-basics.md)? If you have not completed the basics, your product won't function.
+{% endhint %}
+
 {% hint style="info" %}
 This product is unbranded.
 {% endhint %}

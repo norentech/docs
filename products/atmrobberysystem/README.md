@@ -11,6 +11,10 @@ This product requires a paid license. It is a violation of the [terms.md](../../
 {% endhint %}
 
 {% hint style="success" %}
+Have you completed [the basics](../../gs/the-basics.md)? If you have not completed the basics, your product won't function.
+{% endhint %}
+
+{% hint style="success" %}
 This product requires compatible ATM models from JSM.
 {% endhint %}
 

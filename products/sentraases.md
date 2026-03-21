@@ -10,6 +10,10 @@ coverY: 0
 This product requires a free license. It is a violation of the [terms.md](../gs/terms.md "mention") to use a product without a license.
 {% endhint %}
 
+{% hint style="success" %}
+Have you completed [the basics](../gs/the-basics.md)? If you have not completed the basics, your product won't function.
+{% endhint %}
+
 {% hint style="info" %}
-We're sorry—we have not yet written documentation for this product. License owners will receive a direct message from Parcel when documentation is available. If you need assistance with this product, please [contact us](/broken/pages/JLT9kGYgCwpUIsgZi5Pb).
+Sentra ASES documentation is coming soon. License owners will receive a direct message.
 {% endhint %}

@@ -4,37 +4,47 @@ icon: wrench
 
 # The Basics
 
-{% hint style="success" %}
+{% hint style="info" %}
 This guide only applies to Noren products purchased from **Parcel**.
 {% endhint %}
 
-Before you start using any Noren product, make sure that you complete the basic steps required for your product to function. Most tech products with licensing systems also require the same or similar steps in this guide.
+Before you start using any Noren product, make sure that your game provides our products the necessary permissions to function.
+
+Most tech products with licensing systems like Noren also require the same or similar steps in this guide.
 
 ***
 
-## Allow your game servers to send Http requests
+## HTTP requests & API services
 
-Noren products use a licensing module to perform checks and enforce the Terms of Use. Our licensing module is required to interact with third-party APIs to do so.
+Noren products communicate with our licensing systems to enforce our Terms of Use and prevent unlicensed use. Our licensing module is required to interact with third-party APIs.
 
-Follow the step-by-step guide below to learn how to allow Http requests to be sent from your game servers.
+Noren products may also require to interact with Roblox API services to function.
+
+Follow the step-by-step guide below to allow HTTP requests and access to Roblox API services.
 
 {% stepper %}
 {% step %}
-### Open Game Settings from the ribbon
+### Open Experience Settings from File
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+Hover over "File" from the top left of Roblox Studio and you'll find "Experience Settings".
+
+<figure><img src="../.gitbook/assets/{F01E47FE-DA6A-4FA5-A7F8-D5E973FC09C4}.png" alt="" width="414"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Go to the Security tab
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{BF7502FC-B8AD-43FA-BE6B-673E518E1536}.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Enable "Allow HTTP requests"
+### Enable "Allow HTTP requests" and "Enable Studio Access to API Services"
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+You will spot a warning from Roblox warning you of third party attacks by allowing HTTP requests. Noren will never attempt to attack or backdoor your game in any way.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/{5B9B4274-66BE-4C76-8874-06E2D9E92A2A}.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

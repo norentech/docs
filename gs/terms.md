@@ -3,23 +3,6 @@ icon: scroll
 cover: ../.gitbook/assets/noren_termsOfUseBanner.png
 coverY: 60.76286221170904
 coverHeight: 284
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Terms of Use
