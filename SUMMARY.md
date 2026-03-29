@@ -37,4 +37,4 @@
 
 ## REST APIs <a href="#rest" id="rest"></a>
 
-* [Juno API](rest/juno-api.md)
+* [myNoren API](rest/mynoren-api.md)
