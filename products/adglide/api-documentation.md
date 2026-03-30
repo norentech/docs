@@ -18,9 +18,10 @@ Adds an advertisement to the queue of all devices. If advertisements fail the va
 
 **Parameters:**
 
-| Advertisement: table | The advertisement to queue (see code examples).                               |
-| -------------------- | ----------------------------------------------------------------------------- |
-| Prioritize: boolean  | Whether the advertisement should be added to the first position in the queue. |
+| Argument               | Description                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| Advertisement: `table` | The advertisement to queue (see code examples).                               |
+| Prioritize: `boolean`  | Whether the advertisement should be added to the first position in the queue. |
 
 **Code example 1:**
 
@@ -57,7 +58,9 @@ API:Fire("QueueAd", {
 
 Sets the topbar text on all Portrait advertisement displays.
 
-**Parameters:**
+| Argument          | Description                           |
+| ----------------- | ------------------------------------- |
+| NewText: `string` | The new text to be set as the topbar. |
 
 **Code example:**
 

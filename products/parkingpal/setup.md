@@ -34,38 +34,6 @@ Move the parking sensor to your desired position. Then, scale the `DetectionArea
 
 ***
 
-## Setting up an information sign for multiple zones
-
-In this section, we will guide you on how to set up the information sign that has the capability to display up to 3 zones.
-
-{% stepper %}
-{% step %}
-### Locate the configuration
-
-Locate the `Configuration` instance in the information sign.
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Locate the configuration values
-
-You will find 1 `ObjectValue` for each zone display on the information sign. Choose a value to set up.
-
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Set the value
-
-Set the `Value` property of the zone display's `ObjectValue` to your desired zone folder.
-
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
-
-***
-
 ## Parking sensor states
 
 Parking sensors have a `CurrentState` attribute which you can use to find out whether a parking spot is open, occupied, or unavailable.
